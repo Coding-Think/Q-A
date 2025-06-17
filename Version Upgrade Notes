@@ -1,0 +1,10 @@
+Version Upgrade Notes
+Some methods are no longer used in the new version.
+These methods need to be replaced with their updated equivalents.
+After updating, make sure to test the code.
+
+A simple way to test is:
+Find the file where the method is used → Right-click → Run Java object.
+
+Since my current level isn’t enough to fully understand or write tests myself, this is a simple testing method that my senior taught me.
+
